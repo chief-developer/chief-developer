@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chief-developer
+- 👀 I’m interested in Bubble.io, Javascript and Python Developments
+- 🌱 I’m currently learning Python & Node.js
+- 💞️ I’m looking to collaborate on Bubble.io developments
+- 📫 How to reach me ishaq@renonao.com
